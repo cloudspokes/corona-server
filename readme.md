@@ -2,7 +2,7 @@
 
 A WebSockets server (Faye) for Corona in Node.js. Also has a simple implementation for clients.
 
-See [this video](https://www.youtube.com/watch?v=9RLVgMHc_dQ) for a quick demo.
+See [this video](https://www.youtube.com/watch?v=1ni9-c6vlvs) for a quick demo.
 
 Once the server (running on port 8000) and clients are running, you can curl the following to the server to send messages to the clients.
 
